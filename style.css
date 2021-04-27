@@ -1,0 +1,36 @@
+.ball{
+    float: left;
+    width: 60px;
+    height: 60px;
+    line-height: 60px;
+    font-size: 28px;
+    border-radius: 100%;
+    text-align: center;
+    color: #fff;
+    text-shadow: 0px 0px 3px rgba(73, 57, 0,.8);
+    margin-right: 6PX;
+}
+
+.ball1 {
+    background: firebrick;
+}
+
+.ball2 {
+    background: darkgray;
+}
+
+.ball3 {
+    background: gold;
+}
+
+.ball4 {
+    background: blueviolet;
+}
+
+.ball5 {
+    background: teal;
+}
+
+.ball6 {
+    background: green;
+}
